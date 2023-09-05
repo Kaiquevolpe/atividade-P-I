@@ -1,0 +1,31 @@
+.div-a{
+    background-color: black;
+    width: 1000px;
+    height: 800px;
+}
+
+.div-b{
+    background-color: #ff00c3;
+    height: 60%;
+    width: 80%;
+}
+
+.frase-c{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    font-size: 200%;
+    font-family: initial;
+    font-weight: bold;
+}
+
+.div-d{
+    background-color: #ff6347;
+    height: 10%;
+    height: 90ch;
+}
+
+.div-e{
+    background-color: hwb(129 0% 3%);
+    height: 34vw;
+    width: 40%;
+}
